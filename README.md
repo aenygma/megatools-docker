@@ -2,6 +2,9 @@
 Docker image for running megatools.  
 This image builds the current version of meatools from github source
 
+## Pull from dockerhub
+* https://hub.docker.com/r/aenygma/megatools
+* `docker pull aenygma/megatools`
 
 ## Configs
 By default files will be downloaded to `~/Downloads/mega_dls`.  
